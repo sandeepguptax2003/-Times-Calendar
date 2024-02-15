@@ -1,5 +1,5 @@
 // signup.js
-const url = "http://localhost:8000";
+const url = "https://long-fish-fatigues.cyclic.app";
 
     const signupForm = document.getElementById('signup-form');
 

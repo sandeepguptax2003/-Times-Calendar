@@ -1,5 +1,5 @@
 // login.js
-const url = "http://localhost:8000";
+const url = "https://long-fish-fatigues.cyclic.app";
 
     const loginForm = document.getElementById('login-form');
 
